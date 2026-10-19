@@ -1,0 +1,17 @@
+PATIENT NAME: Jane Smith
+AGE: 34
+GENDER: Female
+DATE OF EXAM: Nov 05, 2025
+
+EXAM: Radiograph Chest PA View
+
+CLINICAL INDICATION: Persistent cough and mild fever for 4 days.
+
+FINDINGS:
+- The cardiac silhouette is normal in size and contours.
+- The mediastinum and hilar structures are unremarkable.
+- Both lungs are clear. No evidence of focal airspace consolidation, pleural effusion, or pneumothorax is seen.
+- The bony thorax appears intact.
+
+IMPRESSION: 
+Normal chest radiograph. No acute cardiopulmonary abnormalities detected.

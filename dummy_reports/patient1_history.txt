@@ -1,0 +1,13 @@
+PATIENT NAME: Alice Greenfield
+DOB: March 12, 1985
+GENDER: Female
+BLOOD GROUP: O+
+
+MEDICAL HISTORY:
+- Asthma (diagnosed 1995), currently managed with Albuterol inhaler as needed.
+- Appendectomy (2004).
+- No known drug allergies.
+
+CURRENT MEDICATIONS:
+- Albuterol (ProAir HFA)
+- Multivitamin daily

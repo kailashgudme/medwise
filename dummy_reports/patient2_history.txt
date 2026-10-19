@@ -1,0 +1,18 @@
+PATIENT NAME: Marcus Thorne
+DOB: July 22, 1970
+GENDER: Male
+BLOOD GROUP: A-
+
+MEDICAL HISTORY:
+- Type 2 Diabetes Mellitus (diagnosed 2018), well-controlled with medication and diet.
+- Hypertension (diagnosed 2015).
+- Hyperlipidemia.
+- Family history of coronary artery disease (father).
+
+ALLERGIES:
+- Penicillin (causes hives)
+
+CURRENT MEDICATIONS:
+- Metformin 500mg twice daily
+- Lisinopril 10mg daily
+- Atorvastatin 20mg daily

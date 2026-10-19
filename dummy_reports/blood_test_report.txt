@@ -1,0 +1,22 @@
+PATIENT NAME: John Doe
+AGE: 45
+GENDER: Male
+DATE OF TEST: Oct 12, 2025
+
+TEST: Complete Blood Count (CBC)
+
+HAEMOGLOBIN: 14.5 g/dL (Normal: 13.0 - 17.0)
+WBC COUNT: 8,200 /cumm (Normal: 4,000 - 11,000)
+RBC COUNT: 4.8 millions/cumm (Normal: 4.5 - 5.5)
+PLATELET COUNT: 250,000 /cumm (Normal: 150,000 - 450,000)
+
+TEST: Lipid Profile
+
+TOTAL CHOLESTEROL: 210 mg/dL (High Risk: > 200)
+TRIGLYCERIDES: 165 mg/dL (High Risk: > 150)
+HDL (Good Cholesterol): 42 mg/dL (Normal: 40 - 60)
+LDL (Bad Cholesterol): 135 mg/dL (Normal: < 100)
+
+IMPRESSION: 
+All CBC parameters are within normal limits. 
+Lipid profile indicates slightly elevated cholesterol and triglycerides (mild Hyperlipidemia). Dietary modifications and exercise are recommended.

@@ -1,0 +1,16 @@
+PATIENT NAME: Elena Rodriguez
+DOB: November 05, 1992
+GENDER: Female
+BLOOD GROUP: AB+
+
+MEDICAL HISTORY:
+- Migraines without aura (approx. 1-2 per month).
+- Generalized Anxiety Disorder (GAD).
+- Lactose intolerance.
+
+ALLERGIES:
+- Sulfa drugs (rash)
+
+CURRENT MEDICATIONS:
+- Sumatriptan 50mg (as needed for migraines)
+- Sertraline 50mg daily

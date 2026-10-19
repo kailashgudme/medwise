@@ -1,0 +1,20 @@
+PATIENT NAME: Robert Johnson
+AGE: 62
+GENDER: Male
+DATE OF EXAM: Nov 15, 2025
+
+EXAM: MRI of the Lumbar Spine (Without Contrast)
+
+CLINICAL INDICATION: Chronic lower back pain, radiating to the left leg. Suspected sciatica.
+
+FINDINGS:
+- Vertebral Body/Alignment: Normal alignment. Mild degenerative osteophyte formation seen at L4-L5 and L5-S1 levels.
+- Disc Spaces: Mild disc height loss at L4-L5.
+- L3-L4: No significant disc bulge or canal stenosis.
+- L4-L5: Minimal broad-based posterior disc bulge causing mild bilateral foraminal narrowing. No central canal stenosis. No nerve root impingement detected.
+- L5-S1: Moderate left paracentral disc protrusion compressing the left descending S1 nerve root. Standard central canal dimensions are preserved.
+- Soft Tissues: Paraspinal musculature is within normal limits.
+
+IMPRESSION:
+1. Mild degenerative disc changes at L4-L5 without significant stenosis.
+2. Moderate left paracentral disc protrusion at L5-S1 with impingement on the left S1 nerve root, correlating with the patient's symptoms of left-sided sciatica.
